@@ -9,19 +9,18 @@ body{
     text-align: center;
     width: 300px;
     margin: auto;
-    margin: top 50px;
+    margin-top: 50px;
     padding: 20px 10px;
     box-shadow: 0px 0px 30px #0006;
     border-radius: 8px;
-    margin-bottom: 40px;
-}
-
-.green-card{
-    background-color: rgb(137, 208, 52);
 }
 
 .red-card{
-    background-color: rgb(246, 111, 92);
+    background-color: #f86;
+}
+
+.green-card{
+    background-color: #5b7;
 }
 
 .card_title{
@@ -39,7 +38,7 @@ body{
 
 .card_content{
     font-size: 9px;
-    padding: 20px;
+    padding: 10px 20px ;
     padding-bottom: 0;
     text-align: justify;
     margin-bottom: 0;
